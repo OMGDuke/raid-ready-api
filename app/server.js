@@ -2,7 +2,6 @@ var express = require("express");
 var app = express();
 var request = require('request');
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-require('dotenv').config();
 
 var api = ["https://eu.api.battle.net/wow/guild/", "?fields=members&locale=en_GB&apikey="];
 var apiKey = process.env.WOW_API_KEY;
