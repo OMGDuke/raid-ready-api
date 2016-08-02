@@ -5,18 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec",
-    "start": "node server.js"
+    "start": "node app/server.js"
   },
   "author": "Alex Robertson (alex@omgduke.com)",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
-    "xmlhttprequest": "^1.8.0"
+    "xmlhttprequest": "^1.8.0",
+    "request": "^2.74.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.0.0",
-    "request": "^2.74.0"
+    "mocha": "^3.0.0"
   }
 }
