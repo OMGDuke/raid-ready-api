@@ -1,0 +1,21 @@
+{
+  "name": "raid-ready-api",
+  "version": "1.0.0",
+  "description": "Back end of Raid Ready",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Alex Robertson (alex@omgduke.com)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.0",
+    "request": "^2.74.0"
+  }
+}
