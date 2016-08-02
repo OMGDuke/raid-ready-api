@@ -4,7 +4,8 @@
   "description": "Back end of Raid Ready",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "start": "node app/server.js"
   },
   "author": "Alex Robertson (alex@omgduke.com)",
   "license": "ISC",
