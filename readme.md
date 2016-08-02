@@ -1,5 +1,5 @@
 # Raid Ready API
-<img src="https://raw.githubusercontent.com/OMGDuke/raid-ready/master/app/assets/img/logo.jpg" alt="Raid Ready Logo" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/OMGDuke/raid-ready/master/app/assets/img/logo.png" alt="Raid Ready Logo" style="width:500px;"/>
 
 ### Description
 Back End of [*Raid Ready*](https://github.com/OMGDuke/raid-ready). Retrieves data from the BNet API. A live demo of Raid Ready is available [*here*](https://raid-ready.herokuapp.com)
